@@ -1,0 +1,17 @@
+*{
+   font-size: 30px;
+   font-weight: 500px; 
+}
+h3{
+    color: brown;
+}
+
+h4{
+    color: violet;
+}
+.Myclass{
+    color: purple;
+}
+#id{
+    color: orange;
+}
